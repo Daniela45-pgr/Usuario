@@ -1,0 +1,6 @@
+HOSTMYSQL=bhzbxrmlhh7b4tfsknxb-mysql.services.clever-cloud.com
+USERMYSQL=uwvcxjjd4h9tlc3r
+PASSWORDMYSQL=ouI37NjMwR9G0ndqTHNd
+DATABASEMYSQL=bhzbxrmlhh7b4tfsknxb
+PORTMYSQL=3306
+PORT=3000;
